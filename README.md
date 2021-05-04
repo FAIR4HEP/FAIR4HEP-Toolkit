@@ -1,12 +1,12 @@
 # FAIR4HEP-Toolkit
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FAIR4HEP/FAIR4HEP-Toolkit/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FAIR4HEP/FAIR4HEP-Toolkit/main)
 
 This is a Binder-compatible repo with python environment specific in `requirements.txt`.
 
 Access the interactive Jupyter Notebook through Binder at the following URL
 
-https://mybinder.org/v2/gh/FAIR4HEP/FAIR4HEP-Toolkit/master
+https://mybinder.org/v2/gh/FAIR4HEP/FAIR4HEP-Toolkit/main
 
 # FAIR and AI-ready datasets in High Energy Physics 
 
