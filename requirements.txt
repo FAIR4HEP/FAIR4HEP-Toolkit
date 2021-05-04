@@ -12,7 +12,7 @@ matplotlib==3.0.3
 seaborn==0.11.1
 h5py==2.9.0
 tables==3.6.1
-sklearn==0.21.2
+scikit-learn==0.24.2
 tensorflow==1.13.1
 keras==2.2.4
 
